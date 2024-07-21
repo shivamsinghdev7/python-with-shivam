@@ -4,6 +4,7 @@ tur.setup(800,800)
 tur.speed(0) 
 tur.tracer(10)
 tur.width(2)
+# set bg color
 tur.bgcolor("black")
 for j in range(25):
     for i in range(15):
